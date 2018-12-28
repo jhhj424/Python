@@ -3,7 +3,6 @@ Created on 2018. 12. 18.
 bitopex1.py : 비트 연산자 연습/ shift연산자 연습
 @author: a
 '''
-
 a = ord('A') #아스키코드값 리턴
 print(a)
 mask = 0x0F # 16진수 F, 10진수 15값
